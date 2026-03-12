@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.26](https://github.com/Colorful-Team-Org/marketplace-partner-apps/compare/intershop-connector-v1.0.25...intershop-connector-v1.0.26) (2026-03-12)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.13.1 to 1.13.5 in /apps/intershop ([#7775](https://github.com/Colorful-Team-Org/marketplace-partner-apps/issues/7775)) ([7a0bc30](https://github.com/Colorful-Team-Org/marketplace-partner-apps/commit/7a0bc3062d6b0e122e44fb2891f0792c7d73f5d0))
+* **deps:** bump qs from 6.14.0 to 6.14.1 in /apps/intershop ([#7588](https://github.com/Colorful-Team-Org/marketplace-partner-apps/issues/7588)) ([6871558](https://github.com/Colorful-Team-Org/marketplace-partner-apps/commit/6871558fc6c91b6e8219fab22347e12604211328))
+* **deps:** bump qs from 6.14.1 to 6.14.2 in /apps/intershop ([#7814](https://github.com/Colorful-Team-Org/marketplace-partner-apps/issues/7814)) ([71c9421](https://github.com/Colorful-Team-Org/marketplace-partner-apps/commit/71c9421e7567488c73aeb4c12d46733db1848c3f))
+* **deps:** Bump rollup from 4.44.1 to 4.59.0 in /apps/intershop ([#7872](https://github.com/Colorful-Team-Org/marketplace-partner-apps/issues/7872)) ([f5b537a](https://github.com/Colorful-Team-Org/marketplace-partner-apps/commit/f5b537aa365dee6cb78c648d8995b673d0efb056))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#7223](https://github.com/Colorful-Team-Org/marketplace-partner-apps/issues/7223)) ([451678b](https://github.com/Colorful-Team-Org/marketplace-partner-apps/commit/451678b9210cbb9948c904a1a5158ec6a5d291f0))
+* **deps:** bump the production-dependencies group in /apps/intershop with 4 updates ([#6975](https://github.com/Colorful-Team-Org/marketplace-partner-apps/issues/6975)) ([1ee8348](https://github.com/Colorful-Team-Org/marketplace-partner-apps/commit/1ee8348ef31e498cfd20d6d76f2f2f0cf25ab7f7))
+* Flat Category Selection Implementation & Update new api specs [] ([#7520](https://github.com/Colorful-Team-Org/marketplace-partner-apps/issues/7520)) ([e603ef7](https://github.com/Colorful-Team-Org/marketplace-partner-apps/commit/e603ef7a944f8d49f3145ec14642e8bab530fe9e))
+
 ## [1.0.25](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.24...intershop-connector-v1.0.25) (2025-12-16)
 
 
